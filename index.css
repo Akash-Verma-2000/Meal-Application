@@ -1,0 +1,141 @@
+/* ********************************SETTING UNIVERSAL SETTINGS  *********************************/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #262222;
+}
+
+/* **************************** NAVIGATION BAR SECTION STARTS *************************************** */
+.my-nav-bar {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    margin-top: -120px;
+    background-color: #f5901a !important;
+    border-bottom: 3px solid red;
+}
+
+#my-logo-img {
+    height: 60px;
+    margin-right: 10px;
+}
+
+.my-tagline {
+    color: black;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.my-nav-links {
+    color: black;
+    font-size: x-large;
+}
+
+.my-nav-links:hover {
+    color: red !important;
+}
+
+/* **************************** NAVIGATION BAR SECTION ENDS *************************************** */
+
+/* ******************************** HEADING SECTION STARTS **************************************** */
+#my-first-heading {
+    margin-top: 120px;
+}
+
+.my-heading {
+    text-align: center;
+    color: white;
+    /* margin-bottom: 30px; */
+}
+
+/* **************************** HEADING SECTION ENDS *************************************** */
+
+/* **************************** CARDS SECTION STARTS *************************************** */
+.my-cards {
+    background-color: #f5901a;
+    padding: 5px;
+}
+
+.my-card-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.more-details-card {
+    margin-top: 50px;
+    background-color: #f5901a;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.more-details-img {
+    border-radius: 10px !important;
+}
+
+/* **************************** CARDS SECTION ENDS *************************************** */
+
+/* **************************** BUTTONS SECTION STARTS *************************************** */
+.my-more-details-btn {
+    background-color: #f5901a;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    color: black;
+    font-size: large;
+    border-radius: 5px;
+}
+
+.my-more-details-btn:hover {
+    background-color: #f5901a;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.my-more-details-btn:active {
+    background-color: #f5901a !important;
+    border: 2px solid rgb(255, 255, 255) !important;
+}
+
+.my-add-to-fav-btn {
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50%;
+}
+
+.my-add-to-fav-btn:hover {
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
+}
+
+/* ******************************** BUTTONS SECTION ENDS *************************************** */
+
+/* **************************** NOTIFICATION SECTION STARTS *************************************** */
+#my-notification-bar {
+    width: 100%;
+    color: rgb(255, 9, 9);
+    border: 0px;
+    height: 50px;
+    background-color: rgb(9, 237, 74);
+    padding-bottom: 40px;
+    position: fixed;
+    bottom: -20px;
+    display: none;
+    /* MAKING THE NOTIFICATION BAR INVISIBLE IT WILL BE VISIBLE WHEN NEEDED */
+}
+
+#my-notice {
+    text-align: center;
+    color: black;
+    font-size: 15px;
+}
+
+/* **************************** NOTIFICATION SECTION ENDS *************************************** */
