@@ -1,1 +1,28 @@
-# Meal-Application
+# Meal Application
+
+## Description
+
+The Meal Application is a web-based application developed using HTML, CSS, JavaScript, and Bootstrap. It allows users to search for meals and view details about them. Users can also add meals to their favorites list, which is stored locally and persists even after the browser window is closed or the page is refreshed.
+
+## Features
+
+- Live search results as the user types in the search bar.
+- More details button to view additional information about a meal.
+- Add to favorites button to save a meal to the favorites list.
+- Favorites list page with the ability to remove meals from the list.
+- Local storage used to persist favorite meals.
+
+## Author
+
+Akash Verma
+- Email: akash.verma217112@gmail.com
+- LinkedIn: [Profile Link](https://www.linkedin.com/in/akash-verma-09aug2000/)
+
+## Acknowledgments
+
+- CODING NiNIJAS for providing excellent coding resources.
+- Narendra sir, my mentor for web development, for invaluable guidance and support.
+- Prateek sir, my relationship manager, for invaluable guidance and support.
+- Aman Agrawal sir, my batch manager, for continuous assistance throughout the project.
+
+Feel free to reach out to the author at akash.verma217112@gmail.com for any questions or concerns. Happy coding!
