@@ -5,7 +5,12 @@
 The Meal Application is a web-based application developed using HTML, CSS, JavaScript, and Bootstrap. It allows users to search for meals and view details about them. Users can also add meals to their favorites list, which is stored locally and persists even after the browser window is closed or the page is refreshed.
 
 ## Technology
-   > HTML, CSS, Javascript, and Bootstrap.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Features
 
@@ -45,10 +50,11 @@ Feel free to reach out to the author at akash.verma217112@gmail.com for any ques
 ## Author
 
 Akash Verma
-### Contact ME
-- [LinkedIn](https://www.linkedin.com/in/akash-verma-09aug2000/)
-- [Email Address](mailto:akash.verma217112@gmail.com)
-- [Leetcode](https://leetcode.com/Akash_Verma2000/)
+
+## Contact me 
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-verma-09aug2000/)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Akash_Verma2000/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.verma217112@gmail.com) 
+ [![Naukari](https://img.shields.io/badge/Naukri.com-0A66C2?style=for-the-badge&logo=Naukri.com&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 
 ## License
 
