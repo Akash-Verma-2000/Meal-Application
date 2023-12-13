@@ -31,16 +31,6 @@ The Meal Application is a web-based application developed using HTML, CSS, JavaS
 ### Favorite List
 
 ![Home Page](/MealAPp-fav-list.jpg "Home Page")
-
-
-
-## Author
-
-Akash Verma
-### Contact ME
-- [LinkedIn](https://www.linkedin.com/in/akash-verma-09aug2000/)
-- [Email Address](mailto:akash.verma217112@gmail.com)
-- [Leetcode](https://leetcode.com/Akash_Verma2000/)
   
 
 ## Acknowledgments
@@ -52,6 +42,13 @@ Akash Verma
 
 Feel free to reach out to the author at akash.verma217112@gmail.com for any questions or concerns. Happy coding!
 
+## Author
+
+Akash Verma
+### Contact ME
+- [LinkedIn](https://www.linkedin.com/in/akash-verma-09aug2000/)
+- [Email Address](mailto:akash.verma217112@gmail.com)
+- [Leetcode](https://leetcode.com/Akash_Verma2000/)
 
 ## License
 
